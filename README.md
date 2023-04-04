@@ -10,3 +10,4 @@ In Authentication i have done SignUp, LogIn using JWT ,reset password, send jwt 
 8.  **update user**
 9.  **update current user**
 10.  **delete current user**
+ 
