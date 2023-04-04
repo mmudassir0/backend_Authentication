@@ -1,5 +1,5 @@
 # backend_Authentication
-In Authentication i have done SignUp, LogIn using JWT ,reset password, send jwt to email, forgot password, encrpt password, update current user password  
+In Authentication i have done SignUp, LogIn using JWT ,reset password, send jwt to email, forgot password, encrpt password, update current user password etc 
 1.  **user SignUp**  
 2.  **user LogIn**  
 3.  **JWT Token**  
